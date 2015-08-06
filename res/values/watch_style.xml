@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HM_Watch">
+        <attr name="cycleWidth" format="dimension" />
+        <attr name="watchRadius" format="dimension" />
+        <attr name="secondLength" format="dimension" />
+        <attr name="minuteLength" format="dimension" />
+        <attr name="hourLength" format="dimension" />
+        <attr name="logo" format="reference" />
+    </declare-styleable>
+
+</resources>
